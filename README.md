@@ -1,4 +1,4 @@
-This is a min project in which we learn non linear supervised modelling techniques - Decision trees, Random forest and Extra trees
+This is a mini project in which we learn non linear supervised modelling techniques - Decision trees, Random forest and Extra trees
 
 # PayDayLoans
 
